@@ -2,12 +2,40 @@
 Portfolio Builder #2
 Instruction by Dr.Scavetta 
 
-8.1 Focus: Addressing a Research or Business Questions
-Portfolio Builder #2 draws on the Learning R & Learning Python modules. Here, you are tasked with exploring a data set from Kaggle or Tidy Tuesday, which will generally be larger than the Portfolio Builder #1 datasets. Of course, you can choose a dataset from another source.This assignment is less about the actual data and more about how to use data to address a specific research or business question. Your goal is to demonstrate that you use the dataset to make meaningful and reasonable statements that would be of interest to your business colleagues.The Many of these datasets are very well described – you’ll fine a collection of notebooks, in both R and Python, hosted on Kaggle. dataset are tyThe reason we’re focusing on datasets from Kaggle and Tidy Tuesday is that they are often already very well described. That means you’ll find many online examples analyzing the dataset in Python or R. This is a great learning tool for us – but be cautious! Just because it’s online doesn’t mean its a good example. Start with scripts that you mostly understand but which also push you to learn.Your analysis should go beyond basic EDA and Data Visualization. Remember, you’re goal is to learn something about the world from the dataset that is interesting and relevant in a business or research context. As you learn from the available scripts, try not to simply plagiarizer (i.e. copy and paste), but rather use them as inspiration.
+8.1 Focus: Addressing a Research or Business Questions
 
-8.1.1 DeliverableA GitHub repository with a descriptive name. It should contain:1. An Rmarkdown or ipynb documents (output to HTML) using at least one data set obtained from Kaggle or Tidy Tuesday.2. An explanatory readme.md file for the repo.3. A gh-pages branch to make the repo web-accessible.
+Portfolio Builder #2 draws on the Learning R & Learning Python modules. Here, you are tasked with exploring a data set fromÔøΩKaggleÔøΩorÔøΩTidy Tuesday, which will generally be larger than the Portfolio Builder #1 datasets. Of course, you can choose a dataset from another source.
+This assignment is less about the actual data and more about how to use data to address a specific research or business question. Your goal is to demonstrate that you use the dataset to make meaningful and reasonable statements that would be of interest to your business colleagues.
+The Many of these datasets are very well described you'll find a collection of notebooks, in both R and Python, hosted on Kaggle. dataset are ty
+The reason were focusing on datasets from Kaggle and Tidy Tuesday is that they are often already very well described. That means youÔøΩll find many online examples analyzing the dataset in Python or R. This is a great learning tool for us ÔøΩ but be cautious! Just because itÔøΩs online doesnÔøΩt mean its a good example. Start with scripts that you mostly understand but which also push you to learn.
+Your analysis should go beyond basic EDA and Data Visualization. Remember, you're goal is to learn something about the world from the dataset that is interesting and relevant in a business or research context. As you learn from the available scripts, try not to simply plagiarizer (i.e.ÔøΩcopy and paste), but rather use them as inspiration.
 
-8.1.2 Evaluation metrics
-* Need-to-haves*  Does the GitHub repo exist?*  Is the readme.md informative?*  Is there at least one R or one Python example file viewable in HTML?*  Is the source of the dataset clear?*  Is there a clear research question that this data set will be used to address?*  Has an analysis been conducted that answers the proposed research question?*  Were the commands used appropriate?*  Is there non-code commentary?*  Is the code commented (using #)?*  Are there appropriate and useful data visualizations?
 
-* Nice-to-haves*  Creativity in the research question.*  Improvement of plot formatting.*  Use of useful plot types discussed in class or the learning material.*  Application of appropriate statistical techniques.
+8.1.1 Deliverable
+A GitHub repository with a descriptive name. It should contain:
+1. An R markdown or ipynb documents (output to HTML) using at least one data set obtained fromÔøΩKaggleÔøΩorÔøΩTidy Tuesday.
+2. An explanatory readme.md.file for the repo.
+3. A gh-pages branch to make the repo web-accessible.
+
+
+8.1.2 Evaluation metrics
+
+* Need-to-haves
+    - Does the GitHub repo exist?
+    - Is the readme.md informative?
+    - Is there at least one R or one Python example file viewable in HTML?
+    - Is the source of the dataset clear?
+    - Is there a clear research question that this data set will be used to address?
+    - Has an analysis been conducted that answers the proposed research question?
+    - Were the commands used appropriate?
+    - Is there non-code commentary?
+    - Is the code commented (using #)?
+    - Are there appropriate and useful data visualizations?
+
+
+* Nice-to-haves
+    - Creativity in the research question.
+    - Improvement of plot formatting.
+    - Use of useful plot types discussed in class or the learning material.
+    - Application of appropriate statistical techniques.
+
