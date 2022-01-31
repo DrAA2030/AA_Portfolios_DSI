@@ -1,0 +1,12 @@
+Portfolio Builder #3
+Instruction by Dr.Scavetta 
+
+
+9.1 Focus: Machine Learning Discovery
+Stage 3 is in the Hands-on Machine Learning module. Throughout the three-week module you have been asked to apply your new knowledge in machine learning in two ways.
+1. The exercises ask you to work on provided and well-described data sets.2. More importantly, you were tasked with seeking out a new data set to work on in more detail, applying specific machine learning methods where appropriate.
+These data sets are in general less popular, and thus more interesting in helping you to build your portfolio. Links to some resources can be found in the exercises in the Hand-on Machine Learning module.
+The goal here is to showcase your comprehension of various machine learning methods, while at the same time further developing your data science skills. You should have executed a Machine Learning workflow in R and Python for this section.
+9.1.1 DeliverableA GitHub repository containing:1. Rmarkdown or ipynb documents (output to HTML!) where you explore either classification of regression using a variety of methods discuss in class.2. An explanatory readme.md file for the repo.3. A gh-pages branch to make the repo web-accessible.
+9.1.2 Evaluation metrics* Need-to-haves*  Does the GitHub repo exist?*  Is the readme.md informative?*  Is there at least one R or Python example file viewable in HTML?*  Is the source of the data set clear?*  Is there a clear classification or regression research question that this data set will be used to address?*  Has an analysis been conducted that answers the proposed research question?*  Have a varity of differnt tools been implemented to answer the research question?*  Are the commands used appropriate?*  Are appropriate feature engineering used?*  Is there sufficient exploration of the data set provided?*  Is there non-code commentary?*  Is the code commented (using #)?*  Are there appropriate and useful data visualizations?
+* Nice-to-haves*  Conclusion as to which algorithim performed best*  Discussion as to strengths and weaknesses of each method as it applies to its specific implementation and/or this data set.*  Creativity in the research question and data set.*  Improvement of plot formatting.*  Use of useful plot types discussed in class or the learning material.*  Application of ML methods beyond what is discussed in class.
